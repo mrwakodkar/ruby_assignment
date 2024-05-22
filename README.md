@@ -53,3 +53,11 @@ The program follows these steps:
 In this program, the user can only answer with "Yes", "No", "Y", or "N". If the user provides any other answer, the program informs them that their answer is invalid and prompts them to answer again using the is_valid_answer? method.
 This program is straightforward, but it uses PStore to persist the user's data so that we can use it later.
 
+##Test Cases
+
+Here i have used ```minitest``` for the unit test cases writing 
+
+```sh
+ruby questionnarie_test.rb
+```
+
